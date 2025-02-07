@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+format:
+  revealjs:
+    smaller: true
+    logo: logo.jpg
+    theme: default
+    scrollable: true
+    footer: "Departamento de Gobernanza de Datos"
+    menu:
+      side: left
+      width: wide
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+      multiplex: true
+    transition: slide
+    background-transition: fade
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+```{r}
+1 + 1
+```
